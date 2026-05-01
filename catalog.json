@@ -1,3 +1,14 @@
 {
-  "apps": []
+  "apps": [
+    {
+      "id": "app-loader",
+      "name": "App Loader",
+      "bundleIdentifier": "com.mindofplato.App-Loader",
+      "version": "1.0",
+      "build": "1",
+      "description": "The catalog itself — sideload future apps from here.",
+      "iconURL": null,
+      "manifestURL": "https://awzrd.github.io/app-loader-catalog/apps/app-loader/1.0/manifest.plist"
+    }
+  ]
 }
