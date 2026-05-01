@@ -18,7 +18,8 @@
       "build": "1",
       "description": null,
       "iconURL": null,
-      "manifestURL": "https://awzrd.github.io/app-loader-catalog/apps/dummy-template/1.0/manifest.plist"
+      "manifestURL": "https://awzrd.github.io/app-loader-catalog/apps/dummy-template/1.0/manifest.plist",
+      "installPageURL": "https://awzrd.github.io/app-loader-catalog/apps/dummy-template/1.0/install.html"
     }
   ]
 }
