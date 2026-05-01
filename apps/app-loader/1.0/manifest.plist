@@ -8,22 +8,16 @@
       <key>assets</key>
       <array>
         <dict>
-          <key>kind</key>
-          <string>software-package</string>
-          <key>url</key>
-          <string>https://awzrd.github.io/app-loader-catalog/apps/app-loader/1.0/AppLoader.ipa</string>
+          <key>kind</key><string>software-package</string>
+          <key>url</key><string>https://awzrd.github.io/app-loader-catalog/apps/app-loader/1.0/AppLoader.ipa</string>
         </dict>
       </array>
       <key>metadata</key>
       <dict>
-        <key>bundle-identifier</key>
-        <string>com.mindofplato.App-Loader</string>
-        <key>bundle-version</key>
-        <string>1.0</string>
-        <key>kind</key>
-        <string>software</string>
-        <key>title</key>
-        <string>App Loader</string>
+        <key>bundle-identifier</key><string>com.mindofplato.App-Loader</string>
+        <key>bundle-version</key><string>1.0</string>
+        <key>kind</key><string>software</string>
+        <key>title</key><string>App Loader</string>
       </dict>
     </dict>
   </array>
