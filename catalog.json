@@ -6,9 +6,19 @@
       "bundleIdentifier": "com.mindofplato.App-Loader",
       "version": "1.0",
       "build": "1",
-      "description": "The catalog itself — sideload future apps from here.",
+      "description": "The catalog itself \u2014 sideload future apps from here.",
       "iconURL": null,
       "manifestURL": "https://awzrd.github.io/app-loader-catalog/apps/app-loader/1.0/manifest.plist"
+    },
+    {
+      "id": "dummy-template",
+      "name": "Dummy Template",
+      "bundleIdentifier": "com.mindofplato.Dummy-Template",
+      "version": "1.0",
+      "build": "1",
+      "description": null,
+      "iconURL": null,
+      "manifestURL": "https://awzrd.github.io/app-loader-catalog/apps/dummy-template/1.0/manifest.plist"
     }
   ]
 }
