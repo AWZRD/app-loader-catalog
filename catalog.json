@@ -35,9 +35,9 @@
       "name": "Dog Walk",
       "bundleIdentifier": "com.mindofplato.Dog-Walk",
       "version": "1.0",
-      "build": "10",
+      "build": "11",
       "description": null,
-      "iconURL": null,
+      "iconURL": "https://awzrd.github.io/app-loader-catalog/apps/dog-walk/icon.png",
       "manifestURL": "https://awzrd.github.io/app-loader-catalog/apps/dog-walk/1.0/manifest.plist"
     }
   ]
