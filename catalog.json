@@ -39,6 +39,16 @@
       "description": null,
       "iconURL": null,
       "manifestURL": "https://awzrd.github.io/app-loader-catalog/apps/scaffold-test/1.0/manifest.plist"
+    },
+    {
+      "id": "dog-walk",
+      "name": "Dog Walk",
+      "bundleIdentifier": "com.mindofplato.Dog-Walk",
+      "version": "1.0",
+      "build": "1",
+      "description": null,
+      "iconURL": null,
+      "manifestURL": "https://awzrd.github.io/app-loader-catalog/apps/dog-walk/1.0/manifest.plist"
     }
   ]
 }
