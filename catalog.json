@@ -21,6 +21,17 @@
       "iconURL": null,
       "manifestURL": "https://awzrd.github.io/app-loader-catalog/apps/dummy-template/1.0/manifest.plist",
       "installPageURL": "https://awzrd.github.io/app-loader-catalog/apps/dummy-template/1.0/install.html"
+    },
+    {
+      "id": "mbp31",
+      "name": "MovieBoxPro",
+      "bundleIdentifier": "com.xd.mbp31",
+      "version": "15.5",
+      "build": "1",
+      "description": null,
+      "iconURL": null,
+      "manifestURL": "https://awzrd.github.io/app-loader-catalog/apps/mbp31/15.5/manifest.plist",
+      "installPageURL": "https://awzrd.github.io/app-loader-catalog/apps/mbp31/15.5/install.html"
     }
   ]
 }
