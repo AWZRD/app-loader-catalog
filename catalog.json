@@ -27,7 +27,7 @@
       "version": "15.5",
       "build": "1",
       "description": null,
-      "iconURL": null,
+      "iconURL": "https://awzrd.github.io/app-loader-catalog/apps/mbp31/icon.png",
       "manifestURL": "https://awzrd.github.io/app-loader-catalog/apps/mbp31/15.5/manifest.plist"
     }
   ]
