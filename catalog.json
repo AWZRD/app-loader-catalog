@@ -39,6 +39,16 @@
       "description": null,
       "iconURL": "https://awzrd.github.io/app-loader-catalog/apps/dog-walk/icon.png",
       "manifestURL": "https://awzrd.github.io/app-loader-catalog/apps/dog-walk/1.0/manifest.plist"
+    },
+    {
+      "id": "todai",
+      "name": "Todai",
+      "bundleIdentifier": "com.mindofplato.Todai",
+      "version": "1.0",
+      "build": "1",
+      "description": null,
+      "iconURL": "https://awzrd.github.io/app-loader-catalog/apps/todai/icon.png",
+      "manifestURL": "https://awzrd.github.io/app-loader-catalog/apps/todai/1.0/manifest.plist"
     }
   ]
 }
