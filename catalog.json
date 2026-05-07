@@ -5,7 +5,7 @@
       "name": "App Loader",
       "bundleIdentifier": "com.mindofplato.App-Loader",
       "version": "1.0",
-      "build": "28",
+      "build": "29",
       "description": "The catalog itself \u2014 sideload future apps from here.",
       "iconURL": "https://awzrd.github.io/app-loader-catalog/apps/app-loader/icon.png",
       "manifestURL": "https://awzrd.github.io/app-loader-catalog/apps/app-loader/1.0/manifest.plist"
