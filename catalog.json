@@ -49,6 +49,16 @@
       "description": null,
       "iconURL": "https://awzrd.github.io/app-loader-catalog/apps/todai/icon.png",
       "manifestURL": "https://awzrd.github.io/app-loader-catalog/apps/todai/1.0/manifest.plist"
+    },
+    {
+      "id": "tv-history",
+      "name": "TV History",
+      "bundleIdentifier": "com.mindofplato.TV-History",
+      "version": "1.0",
+      "build": "1",
+      "description": null,
+      "iconURL": null,
+      "manifestURL": "https://awzrd.github.io/app-loader-catalog/apps/tv-history/1.0/manifest.plist"
     }
   ]
 }
