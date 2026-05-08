@@ -11,16 +11,6 @@
       "manifestURL": "https://awzrd.github.io/app-loader-catalog/apps/app-loader/1.0/manifest.plist"
     },
     {
-      "id": "dummy-template",
-      "name": "Dummy Template",
-      "bundleIdentifier": "com.mindofplato.Dummy-Template",
-      "version": "1.0",
-      "build": "1",
-      "description": null,
-      "iconURL": null,
-      "manifestURL": "https://awzrd.github.io/app-loader-catalog/apps/dummy-template/1.0/manifest.plist"
-    },
-    {
       "id": "mbp31",
       "name": "MovieBoxPro",
       "bundleIdentifier": "com.xd.mbp31",
