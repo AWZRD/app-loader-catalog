@@ -75,7 +75,7 @@
       "name": "Allowance",
       "bundleIdentifier": "com.mindofplato.Allowance",
       "version": "1.0",
-      "build": "31",
+      "build": "33",
       "description": null,
       "iconURL": "https://awzrd.github.io/app-loader-catalog/apps/allowance/icon.png",
       "manifestURL": "https://awzrd.github.io/app-loader-catalog/apps/allowance/1.0/manifest.plist"
