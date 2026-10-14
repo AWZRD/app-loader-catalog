@@ -79,6 +79,16 @@
       "description": null,
       "iconURL": "https://awzrd.github.io/app-loader-catalog/apps/allowance/icon.png",
       "manifestURL": "https://awzrd.github.io/app-loader-catalog/apps/allowance/1.0/manifest.plist"
+    },
+    {
+      "id": "crunchyroll-ios",
+      "name": "Crunchyroll ios",
+      "bundleIdentifier": "com.mindofplato.Crunchyroll-ios",
+      "version": "1.0",
+      "build": "1",
+      "description": null,
+      "iconURL": null,
+      "manifestURL": "https://awzrd.github.io/app-loader-catalog/apps/crunchyroll-ios/1.0/manifest.plist"
     }
   ]
 }
