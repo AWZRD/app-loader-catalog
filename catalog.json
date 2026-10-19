@@ -85,7 +85,7 @@
       "name": "Crunchyroll ios",
       "bundleIdentifier": "com.mindofplato.Crunchyroll-ios",
       "version": "1.0",
-      "build": "3",
+      "build": "4",
       "description": null,
       "iconURL": "https://awzrd.github.io/app-loader-catalog/apps/crunchyroll-ios/icon.png",
       "manifestURL": "https://awzrd.github.io/app-loader-catalog/apps/crunchyroll-ios/1.0/manifest.plist"
