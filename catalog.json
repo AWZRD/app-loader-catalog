@@ -85,7 +85,7 @@
       "name": "Zoopedia",
       "bundleIdentifier": "com.mindofplato.Zoopedia",
       "version": "1.0",
-      "build": "13",
+      "build": "14",
       "description": null,
       "iconURL": null,
       "manifestURL": "https://awzrd.github.io/app-loader-catalog/apps/zoopedia/1.0/manifest.plist"
