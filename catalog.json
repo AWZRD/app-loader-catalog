@@ -79,6 +79,16 @@
       "description": null,
       "iconURL": "https://awzrd.github.io/app-loader-catalog/apps/crunchyroll-ios/icon.png",
       "manifestURL": "https://awzrd.github.io/app-loader-catalog/apps/crunchyroll-ios/1.0/manifest.plist"
+    },
+    {
+      "id": "zoopedia",
+      "name": "Zoopedia",
+      "bundleIdentifier": "com.mindofplato.Zoopedia",
+      "version": "1.0",
+      "build": "1",
+      "description": null,
+      "iconURL": null,
+      "manifestURL": "https://awzrd.github.io/app-loader-catalog/apps/zoopedia/1.0/manifest.plist"
     }
   ]
 }
