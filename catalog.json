@@ -89,6 +89,16 @@
       "description": null,
       "iconURL": "https://awzrd.github.io/app-loader-catalog/apps/zoopedia/icon.png",
       "manifestURL": "https://awzrd.github.io/app-loader-catalog/apps/zoopedia/1.0/manifest.plist"
+    },
+    {
+      "id": "zoopedia-vision",
+      "name": "Zoopedia Vision",
+      "bundleIdentifier": "com.mindofplato.Zoopedia-Vision",
+      "version": "1.0",
+      "build": "1",
+      "description": null,
+      "iconURL": null,
+      "manifestURL": "https://awzrd.github.io/app-loader-catalog/apps/zoopedia-vision/1.0/manifest.plist"
     }
   ]
 }
