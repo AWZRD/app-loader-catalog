@@ -95,7 +95,7 @@
       "name": "Zoopedia Vision",
       "bundleIdentifier": "com.mindofplato.Zoopedia-Vision",
       "version": "1.0",
-      "build": "14",
+      "build": "15",
       "description": null,
       "iconURL": null,
       "manifestURL": "https://awzrd.github.io/app-loader-catalog/apps/zoopedia-vision/1.0/manifest.plist"
