@@ -105,7 +105,7 @@
       "name": "Blocks",
       "bundleIdentifier": "com.mindofplato.Blocks",
       "version": "1.0",
-      "build": "15",
+      "build": "16",
       "description": null,
       "iconURL": null,
       "manifestURL": "https://awzrd.github.io/app-loader-catalog/apps/blocks/1.0/manifest.plist"
